@@ -126,3 +126,4 @@ venv.bak/
 venv/*
 
 *.pyc
+lineage_tree_analysis/2020.11.29.workspace.code-workspace
